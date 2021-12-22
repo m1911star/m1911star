@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Computer Graphics, Editor Online, Prosemirror Plugin**
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Rust** and **Webgl**
 
 - 👨‍💻 All of my projects are available at [https://github.com/m1911star](https://github.com/m1911star)
 
