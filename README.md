@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/m1911star](https://github.com/m1911star)
 
-- 📝 I regularly write articles on [blog.ipili.me](https://blog.ipili.me)
+- 📝 I regularly write articles on [blog](https://blog.ipili.me) and weekly report on [weekly](https://blog.ipili.me)
 
 - 💬 Ask me about **React, Typescript**
 
