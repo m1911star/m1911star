@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/m1911star](https://github.com/m1911star)
 
-- 📝 I regularly write articles on [blog](https://blog.ipili.me) and weekly report on [weekly]([https://blog.ipili.me](https://weekly.ipili.me/))
+- 📝 I regularly write articles on [blog]([https://blog.ipili.me](https://m1911star.notion.site/a9aebe3bb2904390ba7c9cc2d9a1d6ad))
 
 - 💬 Ask me about **React, Typescript**
 
